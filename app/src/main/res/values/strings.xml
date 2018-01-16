@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Swipable</string>
+
+    <string-array name="header_title">
+        <item>Tech</item>
+        <item>Fashion</item>
+        <item>Sports</item>
+        <item>Technologies</item>
+        <item>Design</item>
+        <item>Politics</item>
+        <item>Movies</item>
+    </string-array>
+</resources>
